@@ -4,7 +4,7 @@
 
 <h2 align="left">Hi 👋, I'm Tanadol Teerapatpanich</h1>
 
-- 🌱 I’m currently learning **Kafka and Confluent Platform**
+- 🌱 I’m currently working with **Kafka and Confluent Platform**
 
 - 💬 Ask me about **Kafka , DevOps**
 
