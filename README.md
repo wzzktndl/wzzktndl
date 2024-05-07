@@ -9,7 +9,7 @@
 - 💬 Ask me about **Kafka , DevOps**
 
 - 📫 How to reach me **tanadol.trp@gmail.com**
-- 
+
 <p align="left">
 </p>
 
