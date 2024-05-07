@@ -9,8 +9,7 @@
 - 💬 Ask me about **Kafka , DevOps**
 
 - 📫 How to reach me **tanadol.trp@gmail.com**
-
-- ⚡ Fun fact **I Think I am a nerd XD**
+- 
 <p align="left">
 </p>
 
